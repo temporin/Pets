@@ -11,7 +11,7 @@ public abstract class Pet
     
     public String getOwner()
     {
-        return owner;
+        return petOwner;
     }
 
     public void ChangeOwner ( String owner )
